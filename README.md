@@ -21,7 +21,7 @@ During my college years, I built projects using Django and Java as well, my favo
 
 ## 💌 Reach out to me 
 
-- <img src="" align="center" alt="mail me"> : shyynux@gmail.com
-- <img src="" align="center" alt="discord" >: [`@.shyynux`]
-- <img src="" align="center" alt="x/twitter"> : [`shyynux`](https://twitter.com/shyynux)
+- mail me : shyynux@gmail.com
+- discord : [`@.shyynux`]
+- x/twitter : [`shyynux`](https://twitter.com/shyynux)
 
