@@ -23,5 +23,5 @@ During my college years, I built projects using Django and Java as well, my favo
 
 - <img src="" align="center"> : shyynux@gmail.com
 - <img src="" align="center">: [`@.shyynux`]
-- <img src="" align="center"> : [`shyynux`](https://twitter.com/shyynux)
+- <img src="https://raw.githubusercontent.com/shyynux/shyynux/master/assets/Twitter-X-Logo-PNG.png" align="center"> : [`shyynux`](https://twitter.com/shyynux)
 
