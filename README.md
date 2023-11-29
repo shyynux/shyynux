@@ -4,7 +4,7 @@ I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm 
 
 ## 🧸 Experience
 
-At my last job(first job after college in 2021), I worked with AWS (SQS, SNS, ECS, Lambda, DynamoDB etc) and Kotlin, it was a good experience with a great team. I worked on a multitude of projects and got to see massive scale which was cool. ☁︎ During my college internship, I worked with C# and Azure Devops. It was my first time with C# and it made me realise that language is just a tool and we can get upto speed with a language if we know the basics.
+At my last job(first job after college in 2021), I worked with AWS (SQS, SNS, ECS, Lambda, DynamoDB etc) and Kotlin, it was a good experience with a great team. I worked on a multitude of projects and got to see massive scale which was cool. ☁︎ During my college internship, I worked with C# and Azure Devops. It was my first time with C# and it made me realise that _language is just a tool_ and we can get upto speed with a language if we know the basics.
 
 During my college years, I built projects using Django and Java as well, my favourite was a code compiler I built (basically used my linux machine’s compiler). I built lot of projects using Django and explored design patterns like OOPS, POJO, factory methods using Java. Java is a beautiful language. I also fell in love with CSS animations, building CSS projects (thx to [`freecodecamp`](https://www.freecodecamp.org/)).
 
