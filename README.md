@@ -23,6 +23,6 @@ During my college years, I built projects using Django and Java as well, my favo
 
 - mail me : shyynux@gmail.com
 - discord : [`@.shyynux`]
-- x/twitter : [`shyynux`](https://twitter.com/shyynux)
+- twitter : [`shyynux`](https://twitter.com/shyynux)
 - support me: [`Buy me a coffee`](https://www.buymeacoffee.com/shyynux)
 
