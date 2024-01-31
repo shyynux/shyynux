@@ -15,7 +15,6 @@ During my college years, I built projects using Django and Java as well, my favo
 - I can get acquainted with any language as long as the problem is being solved.
 - Learning new things is what gives me drive in tech.
 - I do not hate any programming language, every language is fun to explore (YET).
-- Love to connect, contact me below.
 - [Blog](https://dev.to/shyynux) ✨💗🎧 and [reading list](https://shyynux.github.io/reading-list/) ⊹˚. ♡
 
 
