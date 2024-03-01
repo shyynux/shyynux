@@ -1,6 +1,6 @@
 ## hi 🎀༘
 
-I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm a fast learner with experience in multiple programming languages and technologies. 🪐༘ I am building with [`NodeJS`](https://nodejs.org/en/about), [`TypeScript`](https://www.typescriptlang.org/docs/), [` React `](https://react.dev/), [` TailwindCSS `](https://tailwindcss.com/) and [` ExpressJS `](https://expressjs.com/). I am also exploring [` Golang `](https://go.dev/) these days.
+I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm a fast learner with experience in multiple programming languages and technologies. 🪐༘ I am building with [`NodeJS`](https://nodejs.org/en/about), [`TypeScript`](https://www.typescriptlang.org/docs/), [` React `](https://react.dev/), [` TailwindCSS `](https://tailwindcss.com/) and [` ExpressJS `](https://expressjs.com/). 
 I have worked with Django, Java, Kotlin, C#, Azure and AWS during my previous jobs and internships.
 
 ## 🧸 Experience
