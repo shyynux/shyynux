@@ -3,6 +3,15 @@
 I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm a fast learner with experience in multiple programming languages and technologies. 🪐༘ I am building with [`NodeJS`](https://nodejs.org/en/about), [`TypeScript`](https://www.typescriptlang.org/docs/), [` React `](https://react.dev/), [` TailwindCSS `](https://tailwindcss.com/) and [` ExpressJS `](https://expressjs.com/). 
 I have worked with Django, Java, Kotlin, C#, Azure and AWS during my previous jobs and internships.
 
+## 🪐✨ Projects
+
+I am working on a fullstack project rn. Here are a few, check my repos for details on ongoing projects:
+- [`taskbar`](https://taskbar-gamma.vercel.app/) : A way to store your tasks without signing up.
+- [`pixifie`](https:pixifie.xyz) : Pixelate your images with the desired pixelation level.
+- [`butterstamp`](https://butterstamp.vercel.app/) : make 𝘢𝘦𝘴𝘵𝘩𝘦𝘵𝘪𝘤 logos under a minute
+
+:more will be added soon:
+
 ## 🧸 Experience
 
 At my last job(first job after college in 2021), I worked with AWS (SQS, SNS, ECS, Lambda, DynamoDB etc) and Kotlin, it was a good experience with a great team. I worked on a multitude of projects and got to see massive scale which was cool. ☁︎ During my college internship, I worked with C# and Azure Devops. It was my first time with C# and it made me realise that _language is just a tool_ and we can get upto speed with a language if we know the basics.
