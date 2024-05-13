@@ -10,7 +10,6 @@ System design blog: http://tinyurl.com/sys-dsn
 I am working on a fullstack project rn. Here are a few, check my repos for details on ongoing projects:
 - [`taskbar`](https://taskbar-gamma.vercel.app/) : A way to store your tasks without signing up.
 - [`pixifie`](https://pixifie.xyz) : Pixelate your images with the desired pixelation level.
-- [`butterstamp`](https://butterstamp.vercel.app/) : make 𝘢𝘦𝘴𝘵𝘩𝘦𝘵𝘪𝘤 logos under a minute
 - [`ethmumbai's official website`](https://ethmumbai.in/) : worked on most of the development of this website (react, tailwindcss)
 
 :more will be added soon:
