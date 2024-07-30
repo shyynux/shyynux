@@ -8,6 +8,7 @@ System design blog: http://tinyurl.com/sys-dsn
 ## 🪐✨ Projects
 
 I am working on a fullstack project rn. Here are a few, check my repos for details on ongoing projects:
+- [`lyricUI`](https://lyricui.com/) : A tailwindCSS component Library.
 - [`taskbar`](https://taskbar-gamma.vercel.app/) : A way to store your tasks without signing up.
 - [`pixifie`](https://pixifie.xyz) : Pixelate your images with the desired pixelation level.
 - [`ethmumbai's official website`](https://ethmumbai.in/) : worked on most of the development of this website (react, tailwindcss)
