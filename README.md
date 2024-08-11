@@ -4,6 +4,7 @@ I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm 
 I have worked with Django, Java, Kotlin, C#, Azure and AWS during my previous jobs and internships.
 
 System design blog: http://tinyurl.com/sys-dsn
+Work with me: click [here](https://www.shyynux.xyz/work)
 
 ## 🪐✨ Projects
 
