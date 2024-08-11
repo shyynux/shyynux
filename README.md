@@ -3,7 +3,8 @@
 I am a full-stack developer (with a passion for open-source) 🫶🏽 🌷  I'm a fast learner with experience in multiple programming languages and technologies. 🪐༘ I am building with [`NodeJS`](https://nodejs.org/en/about), [`TypeScript`](https://www.typescriptlang.org/docs/), [` React `](https://react.dev/), [` TailwindCSS `](https://tailwindcss.com/) and [` ExpressJS `](https://expressjs.com/). 
 I have worked with Django, Java, Kotlin, C#, Azure and AWS during my previous jobs and internships.
 
-System design blog: http://tinyurl.com/sys-dsn
+System design [blog](http://tinyurl.com/sys-dsn)
+
 Work with me: click [here](https://www.shyynux.xyz/work)
 
 ## 🪐✨ Projects
