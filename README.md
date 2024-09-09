@@ -9,7 +9,8 @@ Work with me: click [here](https://www.shyynux.xyz/work)
 
 ## 🪐✨ Projects
 
-I am working on projects for my freelance [portfolio](https://www.shyynux.xyz/work) . Here are a few, check my repos for details on ongoing projects:
+Here are a few, check my repos for details on ongoing projects:
+- [ `snow` ] : I am working on building a dev kit that will help me ship my ideas faster. 
 - [`lyricUI`](https://lyricui.com/) : A tailwindCSS component Library. (new features are added on the weekends)
 - [`taskbar`](https://taskbar-gamma.vercel.app/) : A way to store your tasks without signing up.
 - [`pixifie`](https://pixifie.xyz) : Pixelate your images with the desired pixelation level.
