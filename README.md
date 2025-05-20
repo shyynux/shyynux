@@ -14,7 +14,7 @@ I enjoy coffee, binge watching, beautiful natural places and good conversations.
 
 System design [blog](http://tinyurl.com/sys-dsn)
 
-Work with me: click [here](https://www.shyynux.xyz/work)
+Work with me: click [here](https://www.shyynux.com)
 
 ## 🪐✨ Projects
 
@@ -53,4 +53,5 @@ During my college years, I built projects using Django and Java as well, my favo
 - discord : [`@.shyynux`]
 - twitter : [`shyynux`](https://twitter.com/shyynux)
 - support me: [`Buy me a coffee`](https://www.buymeacoffee.com/shyynux)
+- find me at:  [`shyynux.com`](https://shyynux.com)
 
